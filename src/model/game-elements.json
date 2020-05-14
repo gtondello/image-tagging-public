@@ -1,0 +1,11 @@
+[
+  {"id":"moderating", "title":"Moderating role", "description":"After writing your tags for an image, you can act as a moderator, by checking a list of tags given by other people and flagging those tags unrelated to the image", "icon":"knowledge"},
+  {"id":"chance", "title":"Random Coins", "description":"After each task you complete, the amount of coins you will receive will be decided by luck", "icon":"dice"},
+  {"id":"challenges", "title":"Challenges", "description":"You will receive challenges related to the quantity of tasks to complete and number of tags in each task", "icon":"bullseye"},
+  {"id":"badges", "title":"Badges", "description":"You will earn badges as you complete tasks, which will show in your profile and will be visible by others", "icon":"medal"},
+  {"id":"unlocks", "title":"Unlockable content", "description":"You will be able to use points to unlock customization options for your avatar", "icon":"locked-fortress"},
+  {"id":"leaderboards", "title":"Leaderboards", "description":"You will be able to see how you compare to others in a leaderboard", "icon":"podium"},
+  {"id":"levels", "title":"Levels", "description":"You will level up as you complete tasks and earn points, and your level will show in your profile", "icon":"chart"},
+  {"id":"powerups", "title":"Power-ups", "description":"You can earn power-ups that boost the number of points received for a limited time or amount of tasks", "icon":"heart"},
+  {"id":"gifting", "title":"Gifting", "description":"You can send and receive gifts of points to/from other participants", "icon":"present"}
+]

@@ -1,0 +1,30 @@
+{
+  "heading":"Please rate how well the following statements describe you.",
+  "questions":[
+    {"number":1,"question":"Interacting with others is important to me."},
+    {"number":2,"question":"It makes me happy if I am able to help others."},
+    {"number":3,"question":"It is important to me to follow my own path."},
+    {"number":4,"question":"I like being part of a team."},
+    {"number":5,"question":"I like to provoke."},
+    {"number":6,"question":"I like competitions where a prize can be won."},
+    {"number":7,"question":"It is important to me to feel like I am part of a community."},
+    {"number":8,"question":"I often let my curiosity guide me."},
+    {"number":9,"question":"I like to question the status quo."},
+    {"number":10,"question":"Rewards are a great way to motivate me."},
+    {"number":12,"question":"I like defeating obstacles."},
+    {"number":13,"question":"I like helping others to orient themselves in new situations."},
+    {"number":14,"question":"I see myself as a rebel."},
+    {"number":15,"question":"I enjoy group activities."},
+    {"number":16,"question":"I dislike following rules."},
+    {"number":17,"question":"I like sharing my knowledge."},
+    {"number":18,"question":"Return of investment is important to me."},
+    {"number":19,"question":"Being independent is important to me."},
+    {"number":20,"question":"I like mastering difficult tasks."},
+    {"number":21,"question":"The well-being of others is important to me."},
+    {"number":22,"question":"If the reward is sufficient I will put in the effort."},
+    {"number":23,"question":"Opportunities for self expression are important to me."},
+    {"number":24,"question":"I like to continuously improve my skills."},
+    {"number":25,"question":"I enjoy emerging victorious out of difficult circumstances."}
+  ],
+  "options":["strongly disagree", "disagree", "somewhat disagree", "neither agree nor disagree", "somewhate agree", "agree", "strongly agree"]
+}

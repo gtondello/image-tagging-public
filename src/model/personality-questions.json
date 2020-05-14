@@ -1,0 +1,17 @@
+{
+  "heading":"I see myself as someone who...",
+  "questions":[
+    {"number":1,"question":"...is reserved."},
+    {"number":2,"question":"...is generally trusting."},
+    {"number":3,"question":"...tends to be lazy."},
+    {"number":4,"question":"...is relaxed, handles stress well."},
+    {"number":5,"question":"...has few artistic interests."},
+    {"number":6,"question":"...is outgoing, sociable."},
+    {"number":7,"question":"...tends to find fault with others."},
+    {"number":8,"question":"...does a thorough job."},
+    {"number":9,"question":"...gets nervous easily."},
+    {"number":10,"question":"...has an active imagination."}
+  ],
+  "options":["strongly disagree", "disagree", "somewhat disagree", "neither agree nor disagree", "somewhate agree", "agree", "strongly agree"]
+}
+  
