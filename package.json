@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@google-cloud/logging": "^5.1.3",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "csv-parser": "^2.3.0",
     "es6-promise": "^4.2.8",
     "firebase": "^5.11.1",
